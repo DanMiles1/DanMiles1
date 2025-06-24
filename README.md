@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanMiles1&show_icons=true&theme=radical" alt="DanMiles1's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanMiles1&layout=compact&theme=radical" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanMiles1&show_icons=true&theme=chartreuse-dark" alt="DanMiles1's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanMiles1&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="300" />
 </div>
 
 ## 🏆 Achievements
