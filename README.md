@@ -4,7 +4,7 @@
 
   <a href="https://www.linkedin.com/in/dhamiles/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.virtualresourcing.com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" alt="Website"></a>
-  <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://[yourwebsite].com"><img src="https://img.shields.io/badge/Portfolio-2E7D32?style=flat&logo=firefox&logoColor=white" alt="Portfolio"></a>
 </div>
 
 ---
