@@ -3,14 +3,14 @@
   <p>I'm a Solutions Consultant passionate about AI Currently working on [current project or goal, e.g., a portfolio site or AI tool].</p>
 
   <a href="https://twitter.com/[YourTwitterHandle]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://[yourwebsite].com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" alt="Website"></a>
+  <a href="https://www.virtualresourcing.com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" alt="Website"></a>
   <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
 
 ## 🛠️ Skills
-- **Languages**: [e.g., Python, Appscript, JavaScript]
+- **Languages**: Python, Appscript, JavaScript
 - **Frameworks**: [e.g., React, Django, Node.js]
 - **Tools**: [e.g., Git, Docker, VS Code]
 - **Other**: [e.g., AWS, SQL, REST APIs]
