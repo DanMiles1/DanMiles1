@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm [Your Name]!</h1>
-  <p>I'm a [your role, e.g., Full-Stack Developer | Data Scientist | Student] passionate about [your interests, e.g., building web apps, machine learning, or open-source]. Currently working on [current project or goal, e.g., a portfolio site or AI tool].</p>
+  <h1>👋 Hi, I'm Dan!</h1>
+  <p>I'm a Solutions Consultant passionate about AI Currently working on [current project or goal, e.g., a portfolio site or AI tool].</p>
 
   <a href="https://twitter.com/[YourTwitterHandle]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://[yourwebsite].com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" alt="Website"></a>
@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Skills
-- **Languages**: [e.g., Python, JavaScript, Java]
+- **Languages**: [e.g., Python, Appscript, JavaScript]
 - **Frameworks**: [e.g., React, Django, Node.js]
 - **Tools**: [e.g., Git, Docker, VS Code]
 - **Other**: [e.g., AWS, SQL, REST APIs]
