@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Dan!</h1>
-  <p>I'm a Solutions Consultant passionate about AI Currently working on [current project or goal, e.g., a portfolio site or AI tool].</p>
+  <p></p>
 </div>
 
 ---
