@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hi, I'm Dan!</h1>
-  <p></p>
 </div>
 
 ---
@@ -9,19 +8,6 @@
 - **Languages**: Python, Appscript, JavaScript, Micropython
 - **Tools**: Jupyter, Linux, oLlama, LM Studio, ComfyUI, Postman, curl
 - **Other**: REST APIs, ChromaDB 
-
-## 🌟 Featured Projects
-- **[Project Name 1](https://github.com/DanMiles1/[repo-name])**  
-  [Brief description, e.g., A web app for task management built with React and Firebase.]  
-  ![GitHub stars](https://img.shields.io/github/stars/DanMiles1/[repo-name]?style=social)
-  
-- **[Project Name 2](https://github.com/DanMiles1/[repo-name])**  
-  [Brief description, e.g., A Python script for automating data analysis with Pandas.]  
-  ![GitHub stars](https://img.shields.io/github/stars/DanMiles1/[repo-name]?style=social)
-
-- **[Project Name 3](https://github.com/DanMiles1/[repo-name])**  
-  [Brief description, e.g., A CLI tool for managing Git workflows.]  
-  ![GitHub stars](https://img.shields.io/github/stars/DanMiles1/[repo-name]?style=social)
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -33,9 +19,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DanMiles1&theme=dracula&margin-w=15" alt="GitHub Trophies" />
 </div>
-
-## ⚡ Fun Fact
-[Add something personal, e.g., "I’m a coffee enthusiast ☕ or I love hiking in my free time 🏞️"]
 
 ---
 
