@@ -2,8 +2,6 @@
   <h1>👋 Hi, I'm Dan!</h1>
 </div>
 
----
-
 ## 🛠️ Skills
 - **Languages**: Python, Appscript, JavaScript, Micropython
 - **Tools**: Jupyter, Linux, oLlama, LM Studio, ComfyUI, Postman, curl
@@ -19,8 +17,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DanMiles1&theme=dracula&margin-w=15" alt="GitHub Trophies" />
 </div>
-
----
 
 <div align="center">
   <p>💡 <i>Let’s connect and build something awesome together!</i></p>
