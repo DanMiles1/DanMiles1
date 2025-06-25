@@ -26,12 +26,12 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanMiles1&show_icons=true&theme=dracula" alt="DanMiles1's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanMiles1&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanMiles1&layout=compact&theme=dracula" alt="Top Languages" width="300" />
 </div>
 
 ## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanMiles1&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DanMiles1&theme=dracula&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ## ⚡ Fun Fact
