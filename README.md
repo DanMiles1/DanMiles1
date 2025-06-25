@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills
 - **Languages**: Python, Appscript, JavaScript, Micropython
-- **Tools**: Jupyter, Linux, oLlama, LM Studio, ComfyUI
+- **Tools**: Jupyter, Linux, oLlama, LM Studio, ComfyUI, Postman, curl
 - **Other**: REST APIs, ChromaDB 
 
 ## 🌟 Featured Projects
