@@ -1,10 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Dan!</h1>
   <p>I'm a Solutions Consultant passionate about AI Currently working on [current project or goal, e.g., a portfolio site or AI tool].</p>
-
-  <a href="https://www.linkedin.com/in/dhamiles/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.virtualresourcing.com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" alt="Website"></a>
-  <a href="https://[yourwebsite].com"><img src="https://img.shields.io/badge/Portfolio-2E7D32?style=flat&logo=firefox&logoColor=white" alt="Portfolio"></a>
 </div>
 
 ---
@@ -38,12 +34,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DanMiles1&theme=onedark&margin-w=15" alt="GitHub Trophies" />
 </div>
-
-## 📫 Get in Touch
-- **Twitter/X**: [@YourTwitterHandle](https://twitter.com/[YourTwitterHandle])
-- **Email**: [your.email@example.com](mailto:[your.email@example.com])
-- **Portfolio**: [yourwebsite.com](https://[yourwebsite].com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/[yourprofile])
 
 ## ⚡ Fun Fact
 [Add something personal, e.g., "I’m a coffee enthusiast ☕ or I love hiking in my free time 🏞️"]
