@@ -6,9 +6,8 @@
 ---
 
 ## 🛠️ Skills
-- **Languages**: Python, Appscript, JavaScript
-- **Frameworks**: [e.g., React, Django, Node.js]
-- **Tools**: Jupyter, 
+- **Languages**: Python, Appscript, JavaScript, Micropython
+- **Tools**: Jupyter, Linux, oLlama, LM Studio, ComfyUI
 - **Other**: REST APIs, ChromaDB 
 
 ## 🌟 Featured Projects
